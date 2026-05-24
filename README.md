@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mohammed Tayyab 👋
 
-<!--
-**MohammedTayyab0809/MohammedTayyab0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering student currently diving deep into the world of full-stack web development. I love building things for the internet and learning how the modern web works.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📚 Engineering Student
+- 💻 Currently learning Full-Stack Web Development
+- ⚡ Fun fact: I am passionate about turning code into beautiful, functional websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** HTML5, CSS3
+- **Learning Next:** JavaScript, Git & GitHub, and backend technologies
+
+### 📈 What I'm Working On
+- Mastering the core fundamentals of frontend design
+- Building responsive clone landing pages
+- Transitioning from basic layouts to interactive web applications
+
