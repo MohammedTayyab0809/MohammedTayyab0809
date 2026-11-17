@@ -29,6 +29,6 @@ I enjoy learning how things work behind the scenes and applying that knowledge t
 
 ### Connect With Me
 
-[LinkedIn](www.linkedin.com/in/mohammed-tayyab-a751612b4) · [GitHub]([YOUR_GITHUB_URL](https://github.com/MohammedTayyab0809))
+[LinkedIn](www.linkedin.com/in/mohammed-tayyab-a751612b4) · [GitHub](https://github.com/MohammedTayyab0809)
 
 Always open to connecting with developers, sharing ideas, learning from others, and collaborating on interesting projects.
