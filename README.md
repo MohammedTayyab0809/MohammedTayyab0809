@@ -1,18 +1,34 @@
-# Hi there, I'm Mohammed Tayyab 👋
+# Hi, I'm Tayyab 👋
 
-I am an engineering student currently diving deep into the world of full-stack web development. I love building things for the internet and learning how the modern web works.
+I'm interested in software development, with a particular focus on backend engineering and building practical applications.
 
-### 🚀 About Me
-- 📚 Engineering Student
-- 💻 Currently learning Full-Stack Web Development
-- ⚡ Fun fact: I am passionate about turning code into beautiful, functional websites
+Currently, I'm working with Java and strengthening my understanding of programming fundamentals, object-oriented design, and application development. I'm also exploring the technologies and concepts that go into building reliable backend systems.
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** HTML5, CSS3
-- **Learning Next:** JavaScript, Git & GitHub, and backend technologies
+I enjoy learning how things work behind the scenes and applying that knowledge through hands-on projects.
 
-### 📈 What I'm Working On
-- Mastering the core fundamentals of frontend design
-- Building responsive clone landing pages
-- Transitioning from basic layouts to interactive web applications
+### Areas of Interest
+- Backend Development
+- Software Engineering
+- Application Development
+- Open Source
 
+### Technologies
+
+**Languages:** Java, JavaScript, HTML, CSS
+
+**Tools:** Git, GitHub, Eclipse
+
+**Currently Learning:** Advanced Java, Data Structures & Algorithms, Backend Development
+
+### What I'm Working On
+
+- Strengthening my Java and programming fundamentals.
+- Exploring backend technologies and database concepts.
+- Building projects to put my knowledge into practice.
+- Improving my understanding of software design and development.
+
+### Connect With Me
+
+[LinkedIn](www.linkedin.com/in/mohammed-tayyab-a751612b4) · [GitHub]([YOUR_GITHUB_URL](https://github.com/MohammedTayyab0809))
+
+Always open to connecting with developers, sharing ideas, learning from others, and collaborating on interesting projects.
